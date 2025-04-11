@@ -89,7 +89,7 @@ EchoChatApp/
 
 ## Author
 
-- Your Name (Add your GitHub profile link here)
+- Dipanshu Upadhyay
 
 ---
 
